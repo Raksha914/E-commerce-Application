@@ -7,7 +7,7 @@
 ![7](https://github.com/user-attachments/assets/54f958eb-a6b4-47bd-9b5c-e35fd4bd6571)
 ![8](https://github.com/user-attachments/assets/1929ee8e-6d17-4e78-9f2a-2831c347a8ec)
 
-RESPONSIVE
+**RESPONSIVE**
 
 ![Screenshot 2024-09-03 160832](https://github.com/user-attachments/assets/af056b4b-c657-4a70-8012-47f04845fb65)
 ![Screenshot 2024-09-03 160848](https://github.com/user-attachments/assets/d431dea7-ce73-4074-bd34-72f1892f4847)
